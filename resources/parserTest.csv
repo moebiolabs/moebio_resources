@@ -1,0 +1,6 @@
+"String","String with Nulls","Numeric","Numeric with Nulls","Numeric with Nulls and Strings"
+"A","A",1,1,1
+"B",,2,,
+"C","C",2.1,2.1,2.1
+"D","3",3,,"D"
+"E","",4,4,4.00001
